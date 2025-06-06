@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "random_number_app (Flutter Celular Android - Main)",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
